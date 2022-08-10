@@ -3,9 +3,9 @@ title: Csh Blog
 SEOTitle: 程帅虎的博客 | Csh Blog
 header-img: img/home-bg.jpg
 email: leonard_pku@gmail.com
-description: ""
+description: "一个从化学半路出家的计算机软件工程师"
 keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://Abdullah-Hanafi.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.

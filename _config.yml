@@ -3,8 +3,8 @@ title: Csh Blog
 SEOTitle: 程帅虎的博客 | Csh Blog
 header-img: img/home-bg.jpg
 email: leonard_pku@163.com
-description: "To dance, clap hands, exalt, shout, skip, roll on, float on"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+description: ""
+keyword: ""
 url: "https://Abdullah-Hanafi.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,12 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: Abdullah-Hanafi
+weibo_username: abdullahhanafi
 zhihu_username: Abdullah-Hanafi
 github_username: Abdullah-Hanafi
 twitter_username: Abdullah-Hanafi
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -27,12 +25,12 @@ permalink: pretty
 paginate: 10
 exclude:
   [
-    "less",
-    "node_modules",
-    "Gruntfile.js",
-    "package.json",
-    "README.md",
-    "README.zh.md",
+      "less",
+      "node_modules",
+      "Gruntfile.js",
+      "package.json",
+      "README.md",
+      "README.zh.md",
   ]
 anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
@@ -59,7 +57,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+#disqus_username: hux 待更新
 
 # Netease settings
 netease_comment: false
@@ -75,7 +73,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "To dance, clap hands, exalt, shout, skip, roll on, float on"
-sidebar-avatar: /img/avatar-csh.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://abdullah-hanafi.github.io/img/avatar-csh.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -91,12 +89,8 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "豆瓣", href: "https://www.douban.com/" },
+    { title: "知乎", href: "https://www.zhihu.com/" },
+    { title: "哔哩哔哩", href: "https://www.bilibili.com/" },
+    { title: "YouTube", href: "https://www.youtube.com/" },
   ]

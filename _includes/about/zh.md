@@ -13,7 +13,7 @@ Hello，这里是程帅帅帅帅帅帅虎（a.k.a. 程帅），一个夜夜失�
 - [中国当代文学有哪些好的小说](https://www.zhihu.com/question/23931133/answer/26615005)
 - [《动物农场》（《动物庄园》）这本书好在哪？](https://www.zhihu.com/question/21452129/answer/417986334)
 - [漫威DC电影宇宙正确观影顺序（全）](https://zhuanlan.zhihu.com/p/61522806)
-- [不只是电影 | 《死亡诗社》，那些金句、训诫，和无尽的思考](https://zhuanlan.zhihu.com/p/53868283)
+- [不只是电影 ：《死亡诗社》，那些金句、训诫，和无尽的思考](https://zhuanlan.zhihu.com/p/53868283)
 - [《荒野生存》：阿拉斯加之死](https://zhuanlan.zhihu.com/p/33025356)
 - [李健有没有缺点？](https://www.zhihu.com/question/267157959/answer/359530933)
 - [张三合集](https://www.bilibili.com/video/BV1dj411f7vb?spm_id_from=333.337.search-card.all.click&vd_source=5925754a94875c62f1e28b2f569cd1ef)
@@ -21,3 +21,4 @@ Hello，这里是程帅帅帅帅帅帅虎（a.k.a. 程帅），一个夜夜失�
 - [“21岁的我，被12岁小学生拖到草丛猥亵”](https://zhuanlan.zhihu.com/p/555037139)
 - [民粹主义与民族主义：国家肌体上的两颗毒瘤](https://zhuanlan.zhihu.com/p/129119209)
 - [20世纪90年代至今，中国内地的民粹思潮是否在上升抬头？原因是什么？](https://www.zhihu.com/question/20237300/answer/14438539)
+

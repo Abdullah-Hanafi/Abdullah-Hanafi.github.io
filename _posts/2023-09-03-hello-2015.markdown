@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Hello CoCo"
+title:      "Hello, FKY"
 subtitle:   " \"I'm Here\""
-date:       2023-09-03 23:31:00
+date:       2023-05-20 13:14:00
 author:     "Csh"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
@@ -14,11 +14,7 @@ tags:
 > “Yeah It's on. ”
 
 
-Csh 的 Blog 就这么开通了。
-
-回顾这个博客的诞生，纯粹是出于个人兴趣。
-
-如果你恰好逛到了这里，希望你也能喜欢这个博客主题。
+Love you.
 
 —— Csh 后记于 2023.09
 
